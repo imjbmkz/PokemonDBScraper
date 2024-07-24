@@ -57,7 +57,3 @@ Feel free to fork this repository, enhance the scraper, or fix any bugs you enco
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
----
-
-Feel free to adjust any details or add more sections depending on additional functionality or requirements of your project.
